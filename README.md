@@ -1,4 +1,4 @@
-[![index]( https://s1.ax1x.com/2020/07/03/NOSA5q.jpg )]( https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=736e609d66e0ac4e57813316cec6fd0b&from=console )
+
 
 # novel-cloud
 
@@ -220,11 +220,6 @@ GitHub仓库地址：  https://github.com/201206030/novel-cloud
 
 #### QQ交流群
 
-[点击前往官网查看](https://xiongxyang.gitee.io/service.htm)
-
-#### 微信公众号（发布最新更新资讯）
-
-![mini-code](https://s3.ax1x.com/2020/12/03/DoImOx.png)
 
 #### 
 
@@ -232,8 +227,8 @@ GitHub仓库地址：  https://github.com/201206030/novel-cloud
 
 开源项目不易，若此项目能得到你的青睐，可以捐赠支持作者持续开发与维护。
 
-![mini-code](https://s1.ax1x.com/2020/10/31/BUQJwq.png)
 
-[![index](https://s1.ax1x.com/2020/07/03/NOSuMF.jpg)](https://www.aliyun.com/minisite/goods?userCode=uf4nasee )
+
+
 
 # 部分截图在github上可能无法正常显示，请下载到本地查看。
