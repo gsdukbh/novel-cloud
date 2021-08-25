@@ -230,5 +230,3 @@ GitHub仓库地址：  https://github.com/201206030/novel-cloud
 
 
 
-
-# 部分截图在github上可能无法正常显示，请下载到本地查看。
